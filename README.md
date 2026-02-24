@@ -1,2 +1,23 @@
-# bank-insurance-analysis-powerbi-excel
-Bank Insurance Analysis project using Excel and Power BI to analyze sales performance, policy renewals, cross-sell opportunities, and agent productivity. Created an interactive dashboard with KPIs and visuals to identify trends and support data-driven business decisions.
+# Bank Insurance Analysis (Excel + Power BI)
+
+## Project Overview
+This project analyzes bank insurance data to track:
+
+- Sales performance
+- Policy renewals
+- Cross-sell performance
+- Agent productivity
+
+## Tools Used
+- Excel
+- Power BI
+
+## Key Insights
+- Identified top-performing agents
+- Analyzed target vs achievement
+- Tracked renewals and cross-sell trends
+
+## Files Included
+- Excel dataset
+- Power BI dashboard
+- Project screenshots
